@@ -2,6 +2,8 @@
 
 ![rspt - octopus](./octopus.png)
 
+This experiment is based on [Processing](https://processing.org)
+
 ## Play with it!
 
 Download the repo and open the `pde` file:
