@@ -1,4 +1,4 @@
-// https://github.com/rspt/processing-pointillisme.git
+// https://github.com/rspt/processing-pointillism.git
 
 PImage img;
 int i = 0, j = 0;
